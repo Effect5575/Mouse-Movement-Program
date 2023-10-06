@@ -1,0 +1,11 @@
+C:\Users\eisik\source\repos\Dark\Dark\bin\Debug\Dark.exe.config
+C:\Users\eisik\source\repos\Dark\Dark\bin\Debug\Dark.exe
+C:\Users\eisik\source\repos\Dark\Dark\bin\Debug\Dark.pdb
+C:\Users\eisik\source\repos\Dark\Dark\obj\Debug\Dark.csproj.AssemblyReference.cache
+C:\Users\eisik\source\repos\Dark\Dark\obj\Debug\Dark.csproj.SuggestedBindingRedirects.cache
+C:\Users\eisik\source\repos\Dark\Dark\obj\Debug\Dark.Properties.Resources.resources
+C:\Users\eisik\source\repos\Dark\Dark\obj\Debug\Dark.csproj.GenerateResource.cache
+C:\Users\eisik\source\repos\Dark\Dark\obj\Debug\Dark.csproj.CoreCompileInputs.cache
+C:\Users\eisik\source\repos\Dark\Dark\obj\Debug\Dark.exe
+C:\Users\eisik\source\repos\Dark\Dark\obj\Debug\Dark.pdb
+C:\Users\eisik\source\repos\Dark\Dark\obj\Debug\Dark.Form1.resources
